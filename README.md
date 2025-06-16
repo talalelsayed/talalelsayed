@@ -30,7 +30,7 @@
 <p align="center">
   <div align="center" class="icons-social">
     <a target="_blank" href="#"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-    <a target="_blank" href="#"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+    <a target="_blank" href="#"><img src="https://https://github.com/talalelseyed.png"></a>
     <a target="_blank" href="#"><img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png"></a>
     <a target="_blank" href="#"><img src="https://img.icons8.com/doodle/1x/youtube--v2.png"></a>
     <a target="_blank" href="#"><img src="https://img.icons8.com/plasticine/0.5x/resume.png"></a>
