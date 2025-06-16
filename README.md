@@ -61,8 +61,4 @@ Saurabh</a></h1>
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
-
-Last Edited on: 08/08/2022
-
+ 
