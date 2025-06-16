@@ -16,7 +16,7 @@
 📊 Skilled in Excel, SQL, Python, Power BI, Tableau  
 🤝 I’m available for freelance data analysis projects  
 📈 Currently learning: Machine Learning with Python  
-📝 I write articles on [https://dev.to](https://dev.to)  
+📝 I write articles on [ https://www.linkedin.com/in/talal-data](https://www.linkedin.com/in/talal-data      )  
 💬 Ask me about data cleaning, dashboard design, and storytelling with data  
 📫 How to reach me: your-email@example.com  
 📄 See my resume: [Resume](#)  
