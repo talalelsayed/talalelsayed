@@ -28,8 +28,7 @@ I work with real-world data using Excel, Power BI, SQL, and Python to help make 
 - 📧 Email: talal.yourname@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/talal-data ) (update this link)
 - ح
-- #ح
-- 01010853215
+- #ح- 01010853215
 - حاخىث
 
 ---
