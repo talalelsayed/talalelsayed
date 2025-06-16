@@ -29,11 +29,12 @@
 
 <p align="center">
   <div align="center" class="icons-social">
+  <!-- WhatsApp -->
+<a target="_blank" href="https://wa.me/201091993568">
+  <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp">
+</a>
+
   
-    <a target="_blank" href="#"><img src="https://https://github.com/talalelseyed.png"></a>
-    <a target="_blank" href="#"><img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png"></a>
-    <a target="_blank" href="#"><img src="https://img.icons8.com/doodle/1x/youtube--v2.png"></a>
-    <a target="_blank" href="#"><img src="https://img.icons8.com/plasticine/0.5x/resume.png"></a>
   </div>
   <p align="center">
   <div align="center" class="icons-social">
