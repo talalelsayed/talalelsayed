@@ -18,7 +18,7 @@
 📈 Currently learning: Machine Learning with Python  
 📝 I write articles on [linkedin.com/in/talal-data](linkedin.com/in/talal-data      )  
 💬 Ask me about data cleaning, dashboard design, and storytelling with data  
-📫 How to reach me: talal.sayed911 @ gmail.com  
+📫 How to reach me: talal.sayed911@gmail.com  
 📄 See my resume: [Resume](#)  
 
 <br/>
