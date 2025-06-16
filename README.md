@@ -9,14 +9,16 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
+ 
+ 
+ 🔭 I’m currently working as a Data Analyst  
 🌱 I’m currently working on data visualization and dashboarding projects  
-📊  🔭 I’m currently working as a Data Analyst  
-Skilled in Excel, SQL, Python, Power BI, Tableau  
+📊 Skilled in Excel, SQL, Python, Power BI, Tableau  
 🤝 I’m available for freelance data analysis projects  
 📈 Currently learning: Machine Learning with Python  
-📝 I write articles on :(linkedin.com/in/talal-data)  
+📝 I write articles on [https://dev.to](https://dev.to)  
 💬 Ask me about data cleaning, dashboard design, and storytelling with data  
-📫 How to reach me:  linkedin.com/in/talal-data  
+📫 How to reach me: your-email@example.com  
 📄 See my resume: [Resume](#)  
 
 <br/>
