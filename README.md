@@ -27,7 +27,7 @@
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> Connect with me 🤝
 </h3>
 
-<p align="center">
+
   <div align="center" class="icons-social">
   <!-- WhatsApp -->
 <a target="_blank" href="https://wa.me/201091993568">
