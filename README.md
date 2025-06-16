@@ -42,34 +42,8 @@
       <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn">
     </a>
 
-    <!-- GitHub -->
-    <a target="_blank" href="https://github.com/talalelseyed">
-      <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub">
-    </a>
-
-    <!-- Twitter (تعديل لاحقًا) -->
-    <a target="_blank" href="#">
-      <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" alt="Twitter">
-    </a>
-
-    <!-- YouTube (تعديل لاحقًا) -->
-    <a target="_blank" href="#">
-      <img src="https://img.icons8.com/doodle/1x/youtube--v2.png" alt="YouTube">
-    </a>
-
-    <!-- Resume (تعديل لاحقًا) -->
-    <a target="_blank" href="#">
-      <img src="https://img.icons8.com/plasticine/0.5x/resume.png" alt="Resume">
-    </a>
-
-    <!-- WhatsApp -->
-    <a target="_blank" href="https://wa.me/201091993568?text=مرحبًا%20طالل،%20أرغب%20في%20التواصل%20معك">
-      <img src="https://img.icons8.com/doodle/40/000000/whatsapp--v1.png" alt="WhatsApp">
-    </a>
-  </div>
-</p>
-
-</p>
+ 
+ 
 
 ### Blogs posts
 
