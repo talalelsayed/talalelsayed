@@ -26,12 +26,6 @@ I work with real-world data using Excel, Power BI, SQL, and Python to help make 
 ## 📫 Contact Me
 
 - 📧 Email: talal.yourname@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/talal-data ) (update this link)
-- ح
-- #ح- 01010853215
-- حاخىث
-
----
-
-<p align="center">
+- 💼 [LinkedIn](https://www.linkedin.com/in/talal-data ) 
+- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=talalelsayed&show_icons=true&theme=default" />
