@@ -31,13 +31,6 @@
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> Connect with me 🤝
 </h3>
 
-
-  <div align="center" class="icons-social">
-  <!-- WhatsApp -->
-<a target="_blank" href="https://wa.me/201091993568">
-  <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp">
-</a>
-
   
   <div align="center" class="icons-social" style="display: flex; justify-content: center; gap: 15px;">
   <!-- WhatsApp -->
