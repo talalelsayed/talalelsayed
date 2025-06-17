@@ -46,6 +46,9 @@
     <a target="_blank" href="https://linkedin.com/in/talal-data">
       <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn">
     </a>
+<a href="https://github.com/talalelseyed" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub Icon" />
+</a>
 
  
  
