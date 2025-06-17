@@ -9,7 +9,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-  - حط لينك فعلي هنا -->## 👋 About Me ## 👋 About Me
+ bout Me
 
 🔭 I’m currently working as a **Data Analyst**  
 🌱 Working on **data visualization & dashboarding projects**  
