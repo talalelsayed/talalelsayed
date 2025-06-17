@@ -9,7 +9,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
- ## 👋 About Me
+  - حط لينك فعلي هنا -->## 👋 About Me ## 👋 About Me
 
 🔭 I’m currently working as a **Data Analyst**  
 🌱 Working on **data visualization & dashboarding projects**  
@@ -20,6 +20,8 @@
 💬 Ask me about **data cleaning, dashboard design, and storytelling with data**  
 📫 Reach me: **talal.sayed911@gmail.com**  
 📄 [See my resume](https://example.com/resume.pdf) <!-- حط لينك فعلي هنا -->
+
+
 
 
 <br/>
