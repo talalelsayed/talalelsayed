@@ -39,16 +39,22 @@
 </a>
 
   
-  </div>
-  <p align="center">
-  <div align="center" class="icons-social">
-    <!-- LinkedIn -->
-    <a target="_blank" href="https://linkedin.com/in/talal-data">
-      <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn">
-    </a>
-<a href="https://github.com/talalelseyed" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub Icon" />
-</a>
+  <div align="center" class="icons-social" style="display: flex; justify-content: center; gap: 15px;">
+  <!-- WhatsApp -->
+  <a target="_blank" href="https://wa.me/201091993568">
+    <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a target="_blank" href="https://linkedin.com/in/talal-data">
+    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/talalelseyed" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub Icon" />
+  </a>
+</div>
 
  
  
